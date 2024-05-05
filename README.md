@@ -1,5 +1,5 @@
-# Hi there 👋 I'm Francis, Junior Full-Stack Developer!
-A 27 years old guy from Malaga passionate about technology, who has discovered not long ago his true passion: Web development! 
+# Hi there 👋 I'm Francis, JavaScript Full-Stack Developer!
+A 28 years old guy from Malaga passionate about technology, who has discovered not long ago his true passion: Web development! 
 <!--
 **FrancisDeea/francisdeea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 :computer: I love creating sites and applications with JavaScript, using React and Next as my favorite tools. 
 
-:heavy_check_mark: 1 year and a half of experience mixing personal projects, odd jobs and self-taught training. I left my last non-industry related job to finish perfecting my learning. 
+:heavy_check_mark: 2 year of experience mixing personal projects, odd jobs and self-taught training. I left my last non-industry related job to finish perfecting my learning. 
 
-🤔 Currently looking for my first position as a Junior Developer.
+🤔 Currently looking for a stable position as developer (front/back-end).
 
 ## Skills
 ### Main Language
